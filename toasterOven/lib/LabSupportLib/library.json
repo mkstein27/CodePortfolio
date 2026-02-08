@@ -1,0 +1,10 @@
+{
+    "name": "LabSupportLib",
+    "version": "1.0.4",
+    "build": {
+        "flags": [
+            "-L.",
+            "-lLabSupportLib"
+        ]
+    }
+}
